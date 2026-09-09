@@ -1,0 +1,13 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+python-multipart>=0.0.20
+pydantic>=2.10.0
+pydantic-settings>=2.8.0
+mysql-connector-python>=9.0.0
+bcrypt>=4.2.0
+PyJWT>=2.10.0
+Pillow>=11.0.0
+pytest>=8.3.0
+httpx>=0.28.0
+email-validator>=2.2.0
+# tensorflow, numpy, and mysql-connector are expected from the existing environment
